@@ -2,7 +2,7 @@
 
 EcommercePlus is an open source project by BLEXZ team. Main focus to take online item sells to next level. Anyone feel free to contribute. However if you have few years working experience with .Net C# it helps you to get involve with contribution quickly.
 
-# Technology Used To Develop:
+### Technology Used To Develop:
 - .Net Core C#
 - LINQ
 - Entity FrameWork
@@ -10,18 +10,18 @@ EcommercePlus is an open source project by BLEXZ team. Main focus to take online
 - CSS
 - BootStrap
 
-# Ability to run:
+### Ability to run:
 - Windows Server
 - Linux Server
 
-# Tools Need To Contribute:
+### Tools Need To Contribute:
 - Visual Studio 2017 pro/free (newer better)
 - MSSQL Server 2017 Express
 - MS Management Studio
 - Git Installed
 
-# License:
+### License:
 - Comming soon
 
-# Business Contact:
+### Business Contact:
 Visit [BLEXZ WEB](https://www.blexz.com)

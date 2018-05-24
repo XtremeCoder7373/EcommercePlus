@@ -8,3 +8,8 @@ EcommercePlus is an open source project by BLEXZ team. Main focus to take online
 - MS Management Studio
 - Git Installed
 
+# License:
+- Comming soon
+
+# Business Contact:
+Visit [BLEXZ WEB](https://www.blexz.com)

@@ -11,7 +11,8 @@ EcommercePlus is an open source project by BLEXZ team. Main focus to take online
 - BootStrap
 
 # Ability to run:
-- Windows Server, Linux Server
+- Windows Server
+- Linux Server
 
 # Tools Need To Contribute:
 - Visual Studio 2017 pro/free (newer better)
